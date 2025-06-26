@@ -5,8 +5,8 @@ import {
 import Home from "./pages/Home.jsx";
 import Login from "./pages/Login.jsx";
 import Register from "./pages/Register.jsx";
-import Single from "./pages/Single.jsx";
-import Write from "./pages/Write.jsx";
+// import Single from "./pages/Single.jsx";
+// import Write from "./pages/Write.jsx";
 
 const router = createBrowserRouter([
   {
